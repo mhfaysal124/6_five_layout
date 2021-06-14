@@ -1,0 +1,152 @@
+
+.nav124{
+    width: 1080px;
+    margin: 0 auto;
+    background-color: rgb(78, 23, 23);
+}
+.nav124 ul{
+    overflow: hidden;
+    list-style-type: none;
+    
+
+}
+.nav124 ul li{
+    float: left;
+    width: 160px;
+    border-right: 2px solid red;
+    background-color: rgb(78, 23, 23);
+    text-align: center;    
+    padding: 20px 0px 20px 0;
+
+}
+.nav124 ul li:last-child{
+    border-right: none;
+}
+.nav124 ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+.banner{
+    border: 2px solid black;
+    height: 100px;
+
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #565655;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.nav{
+    background-color: #565655;
+    border: 2px solid black;
+    border-top: none;
+    height: 80px;
+
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+
+}
+.wrapper{
+    overflow: hidden;
+}
+.mcon{
+    height: 500px;
+    width: 60%;
+    border: 2px solid black;
+    border-top: none;
+    background-color: cyan;
+    float: left;
+
+    color: red;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+.ocon{
+    height: 500px;
+    width: 39.52%;
+    border: 2px solid black;
+    border-top: none;
+    border-left: none;
+    background-color: cyan;
+    float: left;
+
+    color: red;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+
+
+}
+.wrapper2{
+    overflow: hidden;
+}
+
+.pic{
+    height: 200px;
+    width: 30%;
+    margin: 10px 10px 10px 40px;
+    border: 2px solid black;
+    float: left;
+
+    color: red;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.aboutme{
+    height: 200px;
+    width: 51.4%;
+    margin: 10px 40px 10px 0px;
+    border: 2px solid black;
+    float: left;
+
+    color: red;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.rtweets{
+    height: 258px;
+    width: 84.4%;
+    margin: 2px 40px 12px 40px;
+    border: 2px solid black;
+
+    color: red;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.footer{
+    height: 100px;
+    border: 2px solid black;
+    border-top: none;
+
+
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #565655;
+    text-align: center;
+    font-weight: bolder;
+}

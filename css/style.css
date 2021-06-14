@@ -1,0 +1,127 @@
+.nav124{
+    width: 1080px;
+    margin: 0 auto;
+    background-color: rgb(78, 23, 23);
+}
+.nav124 ul{
+    overflow: hidden;
+    list-style-type: none;
+    
+
+}
+.nav124 ul li{
+    float: left;
+    width: 160px;
+    border-right: 2px solid red;
+    background-color: rgb(78, 23, 23);
+    text-align: center;    
+    padding: 20px 0px 20px 0;
+
+}
+.nav124 ul li:last-child{
+    border-right: none;
+}
+.nav124 ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+/*CSS_ Home to Fload from w3school _ 25 css property*/
+
+.css_h1{
+    background-color: black;
+    width: 80%;
+    color: white;
+    padding: 10px;
+}
+.bag1{
+    background-color: rgb(218, 92, 92);
+    padding: 10px;
+}
+
+.bag2{
+    background-image: url(../img/mhfaysal.jpg);
+    background-size: cover;
+    font-size: x-large;
+    padding: 20px;
+    color: black;
+    background-attachment: fixed;
+    text-align: justify;
+    font-family: fantasy;
+    word-spacing: 8px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+.bag3{
+    background-image: url(../img/mhfaysal.jpg);
+    background-size: 300px;
+    padding: 20px;
+    background-repeat: repeat-x;
+    text-align: right;
+    font-family: ;
+}
+
+.bag4{
+    background: orange url(../img/mhfaysal.jpg) no-repeat right top;
+    padding: 20px;
+    background-size: 400px;
+    text-align: end;
+}
+
+.border1{
+    background-color: gray;
+    border: 5px solid red;
+    outline: 5px dashed green;
+    padding: 10px;
+    min-height: 40px;
+    text-transform: uppercase;
+}
+
+.border2{
+    border: 5px dashed red;
+    background-color: gray;
+    padding: 10px;
+    min-height: 40px;
+    outline-style: double;
+    outline: 10px solid black;
+    outline-offset: 5px;
+    text-transform: capitalize;
+}
+
+.fbpage{
+    width: 100px;
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.fbpage:hover{
+    color: hotpink;
+}
+.fbpage:active{
+    color: green;
+}
+
+.overflow{
+    height: 500px;
+    overflow: scroll;
+    border: 5px solid firebrick;
+    background-image: url(../img/mhfaysal.jpg);
+    padding: 10px;
+    font-style: inherit;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
